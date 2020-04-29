@@ -1,4 +1,4 @@
-# Predicting the Life Expectancy of a Newborn
+# Predicting Life Expectancy of a Newborn
 
 ## Overview
 The objective of this project was to use a regression approach to predict the life expectancy of a newborn based on several attributes related to the region in which he/she was born. Explicitly performing feature selection was restricted. I built, trained, tuned and analysed various regression models such as multivariate linear regression, polynomial regression, ridge regression and lasso regression. I provided an ultimate judgement of the ﬁnal trained model that I would use in a real-world setting. Finally, the "best" model was used to predict the life expectancy of a newborn on unseen test data.
